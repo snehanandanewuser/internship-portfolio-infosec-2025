@@ -1,36 +1,55 @@
 # Cybersecurity Internship – InfoSec Dot (June–July 2025)
 
-This repository contains the internship dossier documenting my work and learning experience during a 7-week cybersecurity internship at **InfoSec Dot**.
+This repository documents my work and learning experience during a 7-week cybersecurity internship at **InfoSec Dot**, under the guidance of **Ganesh Gite Sir**.
 
 ---
 
 ## 📘 Internship Dossier
 
-📄 [Click here to download the dossier](Sneha_Internship_Portfolio_InfoSecDot.pdf)
+🔗 [📄 View Full PDF in Browser (with clickable links)](https://snehanandanewuser.github.io/internship-portfolio-infosec-2025/Sneha_Internship_Portfolio_InfoSecDot.pdf)
 
-The dossier highlights my contributions across content creation, research, hands-on tool exploration, and collaborative learning. It also reflects key takeaways in technical writing, OSINT investigation, and cybersecurity awareness.
+You can also download the dossier directly from this repository:
+- [⬇️ Download Sneha_Internship_Portfolio_InfoSecDot.pdf](Sneha_Internship_Portfolio_InfoSecDot.pdf)
 
----
-
-## 🔍 About the Internship
-
-During this internship, I had the opportunity to:
-- Research and present cybersecurity topics in simplified formats  
-- Gain hands-on exposure to tools and techniques used in the field  
-- Improve technical communication and documentation skills  
-- Collaborate within a team-based learning environment  
+The dossier outlines my weekly tasks, research, and skill development throughout the internship.
 
 ---
 
-## 🧠 Skills Gained
+## 🔍 Projects I Worked On
 
-- Cybersecurity fundamentals and awareness  
-- OSINT investigation and reporting  
-- Technical writing and visual content design  
-- Team collaboration and structured research  
-- Tool usage and step-by-step documentation  
+- ✍️ Blog writing on emerging cyber threats  
+- 🎨 Carousel design for simplified security awareness  
+- 🕵️ OSINT investigation and reporting  
+- 📚 Real-world case study analysis  
+- 📰 Weekly news curation  
+- 📄 One-pager research (e.g., API Security, EDR)  
+- 🛠 Step-by-step guides (e.g., Maigret, VeraCrypt)
 
-> This experience helped strengthen my foundation in cybersecurity and boosted my confidence in presenting technical knowledge effectively.
+---
+
+## 💡 Skills Gained
+
+- Cybersecurity research and analysis  
+- OSINT tools and threat intelligence  
+- Technical writing and content simplification  
+- Visual storytelling through design  
+- Tool documentation and usage (e.g., VeraCrypt, DoH)  
+- Collaborative learning and communication
+
+---
+
+## 🙏 Acknowledgment
+
+I’m sincerely thankful to **InfoSec Dot** for this enriching internship opportunity, and especially to **Ganesh Gite Sir** for his mentorship, encouragement, and expert guidance throughout the journey.
+
+---
+
+## 🔗 Portfolio Website
+
+Explore the full portfolio site here:  
+👉 [https://snehanandanewuser.github.io/internship-portfolio-infosec-2025](https://snehanandanewuser.github.io/internship-portfolio-infosec-2025)
+
+---
 
 
-
+> *This internship helped build my confidence in presenting cybersecurity knowledge in an accessible and practical way.*  
