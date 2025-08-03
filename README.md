@@ -1,6 +1,6 @@
 # Cybersecurity Internship – InfoSec Dot (June–July 2025)
 
-This repository documents my work and learning experience during a 7-week cybersecurity internship at **InfoSec Dot**, under the guidance of **Ganesh Gite Sir**.
+This repository documents my work and learning experience during a 7-week cybersecurity internship at **InfoSec Dot**.
 
 ---
 
