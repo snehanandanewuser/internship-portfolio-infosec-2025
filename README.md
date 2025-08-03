@@ -30,8 +30,7 @@ During this internship, I had the opportunity to:
 - Team collaboration and structured research  
 - Tool usage and step-by-step documentation  
 
----
-
 > This experience helped strengthen my foundation in cybersecurity and boosted my confidence in presenting technical knowledge effectively.
+
 
 
