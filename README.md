@@ -6,7 +6,7 @@ This repository contains the internship dossier documenting my work and learning
 
 ## 📘 Internship Dossier
 
-📄 [Click here to download the dossier](Sneha_Internship_Dossier.pdf)
+📄 [Click here to download the dossier](Sneha_Internship_Portfolio_InfoSecDot.pdf)
 
 The dossier highlights my contributions across content creation, research, hands-on tool exploration, and collaborative learning. It also reflects key takeaways in technical writing, OSINT investigation, and cybersecurity awareness.
 
