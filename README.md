@@ -22,8 +22,8 @@ The dossier outlines my weekly tasks, research, and skill development throughout
 - 🕵️ OSINT investigation and reporting  
 - 📚 Real-world case study analysis  
 - 📰 Weekly news curation  
-- 📄 One-pager research (e.g., API Security, EDR)  
-- 🛠 Step-by-step guides (e.g., Maigret, VeraCrypt)
+- 📄 One-pager research  
+- 🛠 Step-by-step guides 
 
 ---
 
