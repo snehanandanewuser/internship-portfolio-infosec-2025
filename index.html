@@ -7,42 +7,69 @@
   <style>
     body {
       font-family: 'Segoe UI', sans-serif;
-      background: #ffeef3; /* soft light pink */
-      color: #000000; /* all text in black */
+      background: #ffeef3;
+      color: #000000;
       margin: 0;
       padding: 40px 20px;
+      display: flex;
+      justify-content: center;
+    }
+
+    .container {
+      background: white;
+      border: 1.5px solid #e5aeb4;
+      border-radius: 12px;
       max-width: 800px;
-      margin-left: auto;
-      margin-right: auto;
+      width: 100%;
+      padding: 30px;
+      box-shadow: 0 6px 18px rgba(0, 0, 0, 0.05);
     }
 
     h1, h2 {
+      text-align: center;
       color: #000000;
     }
 
+    p, ul {
+      font-size: 16px;
+      line-height: 1.6;
+    }
+
+    iframe {
+      border: 1px solid #ccc;
+      border-radius: 6px;
+      margin: 20px 0;
+      width: 100%;
+      height: 600px;
+    }
+
     .button {
-      background-color: #2d2d2d; /* dark button */
+      background-color: #2d2d2d;
       color: #ffffff;
       padding: 12px 24px;
       text-decoration: none;
       border-radius: 6px;
       display: inline-block;
-      margin-top: 20px;
+      margin-top: 10px;
       font-weight: bold;
       transition: background-color 0.3s ease;
+      text-align: center;
     }
 
     .button:hover {
-      background-color: #000000; /* slightly darker on hover */
+      background-color: #000000;
     }
 
     ul {
-      line-height: 1.8;
       padding-left: 20px;
     }
 
+    ul li {
+      margin-bottom: 8px;
+    }
+
     footer {
-      margin-top: 50px;
+      margin-top: 40px;
       font-size: 0.9em;
       text-align: center;
     }
@@ -58,33 +85,44 @@
   </style>
 </head>
 <body>
+  <div class="container">
+    <h1>Cybersecurity Internship 2025</h1>
+    <p><strong>Name:</strong> Sneha</p>
+    <p><strong>Organization:</strong> InfoSec Dot</p>
+    <p><strong>Duration:</strong> June – July 2025</p>
 
-  <h1>Cybersecurity Internship 2025</h1>
-  <p><strong>Name:</strong> Sneha</p>
-  <p><strong>Organization:</strong> InfoSec Dot</p>
-  <p><strong>Duration:</strong> June – July 2025</p>
+    <h2>About the Internship</h2>
+    <p>
+      This 7-week internship at <strong>InfoSec Dot</strong> offered hands-on exposure to cybersecurity tools, weekly research, and content creation tasks. I collaborated on blogs, carousels, case studies, and OSINT reports — all designed to simplify complex cybersecurity topics for a broader audience.
+    </p>
+    <p>
+      The experience helped me strengthen both my technical foundation and communication skills in the cybersecurity domain.
+    </p>
 
-  <h2>Internship Dossier</h2>
-  <p>Click below to download the dossier:</p>
-  <a href="Sneha_Internship_Portfolio_InfoSecDot.pdf" download class="button">Download Dossier</a>
+    <h2>Internship Dossier</h2>
+    <iframe src="Sneha_Internship_Portfolio_InfoSecDot.pdf"></iframe>
+    <div style="text-align: center;">
+      <a href="Sneha_Internship_Portfolio_InfoSecDot.pdf" download class="button">Download Dossier</a>
+    </div>
 
-  <h2>Skills Gained</h2>
-  <ul>
-    <li>Technical writing and communication</li>
-    <li>OSINT & cybersecurity tool research</li>
-    <li>Hands-on cybersecurity practice</li>
-    <li>Team collaboration and research presentation</li>
-  </ul>
+    <h2>Skills Gained</h2>
+    <ul>
+      <li>Technical writing and clear communication</li>
+      <li>OSINT research and tool analysis</li>
+      <li>Hands-on cybersecurity practices</li>
+      <li>Team collaboration and peer learning</li>
+      <li>Visual content creation (blogs, carousels)</li>
+    </ul>
 
-  <footer>
-    GitHub Repo: 
-    <a href="https://github.com/snehanandanewuser/internship-portfolio-infosec-2025" target="_blank">
-      View Repository
-    </a>
-    <br><br>
-    LinkedIn: 
-    <a href="https://www.linkedin.com/in/sneha-887913334/" target="_blank">Connect</a>
-  </footer>
-
+    <footer>
+      GitHub Repo: 
+      <a href="https://github.com/snehanandanewuser/internship-portfolio-infosec-2025" target="_blank">
+        View Repository
+      </a>
+      <br><br>
+      LinkedIn: 
+      <a href="https://www.linkedin.com/in/sneha-887913334/" target="_blank">Connect</a>
+    </footer>
+  </div>
 </body>
 </html>
