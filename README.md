@@ -1,43 +1,37 @@
-# Cybersecurity Internship Portfolio – Sneha
+# Cybersecurity Internship – InfoSec Dot (June–July 2025)
 
-Welcome to my internship portfolio for the **Cybersecurity Internship** I completed at **InfoSec Dot** during **June – July 2025**.
-
-This portfolio showcases the weekly work I contributed, along with a downloadable dossier summarizing my research, learning, and technical writing throughout the internship.
+This repository contains the internship dossier documenting my work and learning experience during a 7-week cybersecurity internship at **InfoSec Dot**.
 
 ---
 
 ## 📘 Internship Dossier
 
-👉 [Click here to download the full dossier](Sneha_Internship_Dossier.pdf)
+📄 [Click here to download the dossier](Sneha_Internship_Dossier.pdf)
+
+The dossier highlights my contributions across content creation, research, hands-on tool exploration, and collaborative learning. It also reflects key takeaways in technical writing, OSINT investigation, and cybersecurity awareness.
 
 ---
 
-## 🌐 Portfolio Website
+## 🔍 About the Internship
 
-You can also view my live internship webpage here:  
-🔗 [https://yourusername.github.io/infosec-internship-2025/](https://yourusername.github.io/infosec-internship-2025/)  
-(Replace `yourusername` with your actual GitHub username)
-
----
-
-## 🗂️ Weekly Contributions
-
-- ✅ Week 1 – Blog Writing: *When Machines Hack Back*, *More Data More Risk*
-- ✅ Week 2 – Carousel Design
-- ✅ Week 3 – Case Study Analysis (Deepfake + Adidas)
-- ✅ Week 4 – OSINT Report (Maigret)
-- ✅ Week 5 – News Curation
-- ✅ Week 6 – Research One-Pager (API Security)
-- ✅ Week 7 – Step-by-Step Tool Guide (VeraCrypt)
+During this internship, I had the opportunity to:
+- Research and present cybersecurity topics in simplified formats  
+- Gain hands-on exposure to tools and techniques used in the field  
+- Improve technical communication and documentation skills  
+- Collaborate within a team-based learning environment  
 
 ---
 
-## 🌟 Key Learnings
+## 🧠 Skills Gained
 
-- Hands-on experience with cybersecurity tools (Maigret, VeraCrypt)
-- Improved technical writing and visual content creation
-- Gained confidence in explaining complex technical concepts clearly
+- Cybersecurity fundamentals and awareness  
+- OSINT investigation and reporting  
+- Technical writing and visual content design  
+- Team collaboration and structured research  
+- Tool usage and step-by-step documentation  
 
 ---
 
-Thanks for visiting! Feel free to explore the dossier or portfolio webpage.
+> This experience helped strengthen my foundation in cybersecurity and boosted my confidence in presenting technical knowledge effectively.
+
+
