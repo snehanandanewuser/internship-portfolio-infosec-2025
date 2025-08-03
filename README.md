@@ -38,12 +38,6 @@ The dossier outlines my weekly tasks, research, and skill development throughout
 
 ---
 
-## 🙏 Acknowledgment
-
-I’m sincerely thankful to **InfoSec Dot** for this enriching internship opportunity, and especially to **Ganesh Gite Sir** for his mentorship, encouragement, and expert guidance throughout the journey.
-
----
-
 ## 🔗 Portfolio Website
 
 Explore the full portfolio site here:  
